@@ -21,8 +21,7 @@ This Angular component, `FetchDataComponent`, is designed to fetch and display w
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Install dependencies: `npm install`
-4. Run the Angular app: `ng serve`
-5. Open your browser and visit `http://localhost:4200/`
+4. Build and launch solution
 
 ## Code Overview
 
